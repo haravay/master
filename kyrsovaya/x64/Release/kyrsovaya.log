@@ -1,0 +1,7 @@
+﻿  kyrsovaya.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Дмитрий\source\repos\kyrsovaya\kyrsovaya\promo.h(51): warning C4715: promochecking: значение возвращается не при всех путях выполнения
+  All 718 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  kyrsovaya.vcxproj -> C:\Users\Дмитрий\source\repos\kyrsovaya\x64\Release\kyrsovaya.exe
